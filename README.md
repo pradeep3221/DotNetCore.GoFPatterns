@@ -5,63 +5,57 @@ commonly-occurring problems in software design
 
 ## Design patterns can be divided into 3 categories
 
--   [Creational](#creational)
+### [Creational](#creational-1)
 
--   [Structural](#structural)
+-   [Factory Method](#factory-method)
 
--   [Behavioral](#behavioral)
+-   [Abstract Factory](#abstract-factory)
 
-### Creational
+-   [Builder](#builder)
 
-1.  [Factory Method](#factory-method)
+-   [Prototype](#prototype)
 
-2.  [Abstract Factory](#abstract-factory)
+-   [Singleton](#singleton)
 
-3.  [Builder](#builder)
+### [Structural](#structural-1)
 
-4.  [Prototype](#prototype)
+-   [Adapter](#adapter)
 
-5.  [Singleton](#singleton)
+-   [Bridge](#bridge)
 
-### Structural
+-   [Composite](#composite)
 
-1.  [Adapter](#adapter)
+-   [Decorator](#decorator)
 
-2.  [Bridge](#bridge)
+-   [Facade](#facade)
 
-3.  [Composite](#composite)
+-   [Flyweight](#flyweight)
 
-4.  [Decorator](#decorator)
+-   [Proxy](#proxy)
 
-5.  [Facade](#facade)
+### [Behavioral](#behavioral-1)
 
-6.  [Flyweight](#flyweight)
+-   [Chain of Responsibility](#chain-of-responsibility)
 
-7.  [Proxy](#proxy)
+-   [Command](#command)
 
-### Behavioral
+-   [Interpreter](#interpreter)
 
-1.  [Chain of Responsibility](#chain-of-responsibility)
+-   [Iterator](#iterator)
 
-2.  [Command](#command)
+-   [Mediator](#memento)
 
-3.  [Interpreter](#interpreter)
+-   [Memento](#memento)
 
-4.  [Iterator](#iterator)
+-   [Observer](#observer)
 
-5.  [Mediator](#memento)
+-   [Visitor](#visitor)
 
-6.  [Memento](#memento)
+-   [Strategy](#strategy)
 
-7.  [Observer](#observer)
+-   [State](#state)
 
-8.  [Visitor](#visitor)
-
-9.  [Strategy](#strategy)
-
-10. [State](#state)
-
-11. [Template Method](#template-method)
+-   [Template Method](#template-method)
 
 ## Creational
 

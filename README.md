@@ -9,7 +9,7 @@ Design patterns are solutions to recurring problems.
 
 1.  **Creational**
 
-    1.  [Factory Method](#factory-method)
+    1. [Factory Method](#factory-method)
 
     2.  [Abstract Factory](#abstract-factory)
 
@@ -61,7 +61,8 @@ Design patterns are solutions to recurring problems.
 
 ## Creational
 
-## *These patterns deal mainly with creation of objects and classes.* These deal with object construction and referencing.
+*These patterns deal mainly with creation of objects and classes. These deal
+with object construction and referencing.*
 
 #### Factory Method
 
@@ -75,7 +76,9 @@ Design patterns are solutions to recurring problems.
 
 ## Structural
 
-## *These patterns deal with Class and Object Composition.* These deal with the relationships between objects and how they interact with each other to form larger complex objects.
+*These patterns deal with Class and Object Composition. These deal with the
+relationships between objects and how they interact with each other to form
+larger complex objects.*
 
 ### Adapter
 
@@ -93,7 +96,10 @@ Design patterns are solutions to recurring problems.
 
 ## Behavioral
 
-## *These mainly deals with Class - Object communication. That means they are concerned with the communication between class and objects. T*hese deal with the communication between objects, especially in terms of responsibility and algorithms.
+*These mainly deals with Class - Object communication. That means they are
+concerned with the communication between class and objects. These deal with the
+communication between objects, especially in terms of responsibility and
+algorithms.*
 
 ### Chain of Responsibility
 
@@ -116,5 +122,6 @@ Design patterns are solutions to recurring problems.
 ### State
 
 ### Template Method
+
 
 

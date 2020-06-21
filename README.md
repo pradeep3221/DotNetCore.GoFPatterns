@@ -1,7 +1,4 @@
-# DotNetCore.GoFPatterns
-C# GoF Design Patterns Implementation
-
-# Design Patterns
+# Design Patterns - C# GoF Design Patterns Implementation
 
 Design patterns are solutions to recurring problems.
 

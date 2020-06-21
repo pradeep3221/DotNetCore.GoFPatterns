@@ -6,4 +6,8 @@
     <RootNamespace>_1._1.FactoryMethod</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="RefactoredFactory\" />
+  </ItemGroup>
+
 </Project>

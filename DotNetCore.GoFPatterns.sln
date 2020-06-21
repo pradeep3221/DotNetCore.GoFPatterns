@@ -55,6 +55,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.10.State", "3.10.State\3.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.11.TemplateMethod", "3.11.TemplateMethod\3.11.TemplateMethod.csproj", "{00685CA2-FE3D-4185-9B49-AD215413F047}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Documents", "Documents", "{8E58A68C-8B6E-4B81-9F29-5387AEB5D36E}"
+	ProjectSection(SolutionItems) = preProject
+		Design Patterns.md = Design Patterns.md
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU

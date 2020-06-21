@@ -9,7 +9,7 @@ Design patterns are solutions to recurring problems.
 
 1.  **Creational**
 
-    1. [Factory Method](#factory-method)
+    1.  [Factory Method](#factory-method)
 
     2.  [Abstract Factory](#abstract-factory)
 
@@ -21,43 +21,43 @@ Design patterns are solutions to recurring problems.
 
 2.  **Structural**
 
-    1.  Adapter
+    1.  [Adapter](#adapter)
 
-    2.  Bridge
+    2.  [Bridge](#bridge)
 
-    3.  Composite
+    3.  [Composite](#composite)
 
-    4.  Decorator
+    4.  [Decorator](#decorator)
 
-    5.  Facade
+    5.  [Facade](#facade)
 
-    6.  Flyweight
+    6.  [Flyweight](#flyweight)
 
-    7.  Proxy
+    7.  [Proxy](#proxy)
 
 3.  **Behavioral**
 
-    1.  Chain of Responsibility
+    1.  [Chain of Responsibility](#chain-of-responsibility)
 
-    2.  Command
+    2.  [Command](#command)
 
-    3.  Interpreter
+    3.  [Interpreter](#interpreter)
 
-    4.  Iterator
+    4.  [Iterator](#iterator)
 
-    5.  Mediator
+    5.  [Mediator](#memento)
 
-    6.  Memento
+    6.  [Memento](#memento)
 
-    7.  Observer
+    7.  [Observer](#observer)
 
-    8.  Visitor
+    8.  [Visitor](#visitor)
 
-    9.  Strategy
+    9.  [Strategy](#strategy)
 
-    10. State
+    10. [State](#state)
 
-    11. Template Method
+    11. [Template Method](#template-method)
 
 ## Creational
 

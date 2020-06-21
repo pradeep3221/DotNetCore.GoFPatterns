@@ -6,55 +6,30 @@ commonly-occurring problems in software design
 ## Design patterns can be divided into 3 categories
 
 ### [Creational](#creational-1)
-
 -   [Factory Method](#factory-method)
-
 -   [Abstract Factory](#abstract-factory)
-
 -   [Builder](#builder)
-
 -   [Prototype](#prototype)
-
 -   [Singleton](#singleton)
-
 ### [Structural](#structural-1)
-
 -   [Adapter](#adapter)
-
 -   [Bridge](#bridge)
-
 -   [Composite](#composite)
-
 -   [Decorator](#decorator)
-
 -   [Facade](#facade)
-
 -   [Flyweight](#flyweight)
-
 -   [Proxy](#proxy)
-
 ### [Behavioral](#behavioral-1)
-
 -   [Chain of Responsibility](#chain-of-responsibility)
-
 -   [Command](#command)
-
 -   [Interpreter](#interpreter)
-
 -   [Iterator](#iterator)
-
 -   [Mediator](#memento)
-
 -   [Memento](#memento)
-
 -   [Observer](#observer)
-
 -   [Visitor](#visitor)
-
 -   [Strategy](#strategy)
-
 -   [State](#state)
-
 -   [Template Method](#template-method)
 
 ## Creational
